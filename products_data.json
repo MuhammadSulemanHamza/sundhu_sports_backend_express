@@ -1,0 +1,95 @@
+[
+    {
+        "title": "English Willow Bat",
+        "price": 200,
+        "featured": true
+    },
+    {
+        "title": "Indian Willow Bat",
+        "price": 500
+    },
+    {
+        "title": "Hard Ball",
+        "price": 100,
+        "featured": true
+    },
+    {
+        "title": "Sports Bat",
+        "price": 50
+    },
+    {
+        "title": "British Willow Bat",
+        "price": 100
+    },
+    {
+        "title": "Softball",
+        "price": 50,
+        "featured": true
+    },
+    {
+        "title": "Cap",
+        "price": 50
+    },
+    {
+        "title": "Uniform",
+        "price": 50
+    },
+    {
+        "title": "English Willow Bat",
+        "price": 200,
+        "featured": true
+    },
+    {
+        "title": "Indian Willow Bat",
+        "price": 500
+    },
+    {
+        "title": "Hard Ball",
+        "price": 100,
+        "featured": true
+    },
+    {
+        "title": "Helmet 1",
+        "price": 200,
+        "featured": true
+    },
+    {
+        "title": "Helmet 3",
+        "price": 500
+    },
+    {
+        "title": "Hard Ball",
+        "price": 100,
+        "featured": true
+    },
+    {
+        "title": "Sports Bat",
+        "price": 50
+    },
+    {
+        "title": "British Willow Bat",
+        "price": 100
+    },
+    {
+        "title": "Wickets",
+        "price": 50
+    },
+    {
+        "title": "Gloves",
+        "price": 60,
+        "featured": true
+    },
+    {
+        "title": "Hard Ball",
+        "price": 100,
+        "featured": true
+    },
+    {
+        "title": "Sports Bat",
+        "price": 50
+    },
+    {
+        "title": "British Willow Bat",
+        "price": 100
+    }
+]
